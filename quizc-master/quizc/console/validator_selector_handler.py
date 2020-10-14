@@ -1,0 +1,2 @@
+class ValidatorHandlerSelector(object):
+    pass
